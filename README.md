@@ -18,3 +18,8 @@ Choice dialog com temas | Sketchware
 ![Print 4](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-151810.png)
 
 (obs: coloque o mesmo nome no diálogo "d" para evitar erros. Se você quiser você pode colocar outro nome, mas terá que alterar no código do bloco "choice dialog".
+
+### Agora na parte de Tela, adicione uma linear e um button. Como na imagem abaixo:
+
+![Print 5](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-174232.png)
+
