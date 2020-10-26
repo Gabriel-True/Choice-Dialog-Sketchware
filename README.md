@@ -9,8 +9,10 @@ Choice dialog com temas | Sketchware
 ### Agora que você adicionou o bloco, vamos adicionar os componentes
 1. Shared Preference
 ![Print 3](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-151316.png)
+
 (obs: o nome do shared preference tem que ser o mesmo para todas as telas que você criar.)
 
 2. Dialogo
 ![Print 4](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-151810.png)
+
 (obs: coloque o mesmo nome no diálogo "d" para evitar erros. Se você quiser você pode colocar outro nome, mas terá que alterar no código do bloco "choice dialog".
