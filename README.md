@@ -27,3 +27,13 @@ Choice dialog com temas | Sketchware
 
 ![Print 6](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-171733.png)
 
+### Continuando na onCreate, vamos colocar os seguintes blocos:
+
+1. Adicionar para list string.
+2. Definir number Position para 0.
+
+### Como na imagem abaixo:
+
+![Print 7](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-182015.png)
+
+Marque os blocos como na imagem.
