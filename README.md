@@ -23,3 +23,7 @@ Choice dialog com temas | Sketchware
 
 ![Print 5](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-174232.png)
 
+### Feito isso, na parte de evento › onCreate, criaremos uma lista string. Como na imagem abaixo:
+
+![Print 6](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-171733.png)
+
