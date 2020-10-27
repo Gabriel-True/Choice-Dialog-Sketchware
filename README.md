@@ -41,3 +41,8 @@ Coloque Escuro para o primeiro bloco e Claro para o segundo bloco e marque as li
 ### Feito isso, agora vamos para a onClick do Button
 
 ### Iremos colocar os seguintes blocos:
+
+1. Diálogo Definir Título (no título coloque escolher tema)
+2. Coloque o bloco choice dialog (aquele que você baixou)
+3. Botão OK (no botão coloque salvar/ok/definir o que você preferir)
+4. Diálogo mostrar (servirá para mostrar o diálogo)
