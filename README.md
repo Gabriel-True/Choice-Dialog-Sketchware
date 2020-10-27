@@ -57,3 +57,12 @@ Coloque Escuro para o primeiro bloco e Claro para o segundo bloco e marque as li
 ### Faça como na imagem abaixo:
 
 ![Print 8](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-182118.png)
+
+Marque todos os blocos e strings.
+
+Seu diálogo já está pronto, você pode fazer sua lógica dentro dos ifs. Mas para completar o tutorial vamos fazer os temas para o app (Escuro e Claro)
+
+### Salvando os dados com Shared Preferences
+
+
+
