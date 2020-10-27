@@ -54,3 +54,6 @@ Coloque Escuro para o primeiro bloco e Claro para o segundo bloco e marque as li
 
 ### Agora coloque o operador dentro do bloco If Then. Feito isso, vá para a parte de variáveis e pegue bloco Position e adicione dentro do bloco operador. No primeiro If coloque Position = 0. e no segundo If coloque Position = 1. 
 
+### Faça como na imagem abaixo:
+
+![Print 8](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-182118.png)
