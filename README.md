@@ -52,7 +52,7 @@ Coloque Escuro para o primeiro bloco e Claro para o segundo bloco e marque as li
 1. Dois blocos Se Então (if then) um embaixo do outro
 2. Dois blocos operadores igual ( = )
 
-### Agora coloque o operador dentro do bloco If Then. Feito isso, vá para a parte de variáveis e pegue bloco Position e adicione dentro do bloco operador. No primeiro If coloque Position = 0. e no segundo If coloque Position = 1. 
+### Agora coloque o operador = dentro do bloco If Then. Feito isso, vá para a parte de variáveis e pegue bloco Position e adicione dentro do bloco operador. No primeiro If coloque Position = 0. e no segundo If coloque Position = 1. 
 
 ### Faça como na imagem abaixo:
 
