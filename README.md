@@ -66,5 +66,18 @@ Seu diálogo já está pronto, você pode fazer sua lógica dentro dos ifs. Mas 
 
 ### Agora você precisará dos seguintes blocos:
 
+1. SharedPreferences DefinirDados Chaves Valor
+2. Bloco Definir Cor de Fundo
 
+### Em cada If adicione um bloco DefinirDados Chaves valor e o bloco Definir Cor de Fundo.
+
+#### No primeiro if você colocará uma chave "a" e o valor "escuro". E vai definir como cor Preto.
+
+### No segundo If você colocará uma chave "a" e o valor "claro". e vai definir como cor Branco.
+
+Agora marque os blocos.
+
+### Faça como na imagem abaixo:
+
+![Print 9](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-172006.png)
 
