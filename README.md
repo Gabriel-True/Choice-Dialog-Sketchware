@@ -62,7 +62,7 @@ Marque todos os blocos e strings.
 
 Seu diálogo já está pronto, você pode fazer sua lógica dentro dos ifs. Mas para completar o tutorial vamos fazer os temas para o app (Escuro e Claro)
 
-## Salvando os dados com Shared Preferences
+## :floppy_disk: Salvando os dados com Shared Preferences
 
 ### Agora você precisará dos seguintes blocos:
 
