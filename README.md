@@ -37,3 +37,7 @@ Choice dialog com temas | Sketchware
 ![Print 7](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-182015.png)
 
 Coloque Escuro para o primeiro bloco e Claro para o segundo bloco e marque as list string. Depois marque a variável para Position 0 como mostra na imagem.
+
+### Feito isso, agora vamos para a onClick do Button
+
+### Iremos colocar os seguintes blocos:
