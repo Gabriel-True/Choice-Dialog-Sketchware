@@ -97,3 +97,7 @@ Agora marque os blocos.
 ### Faça como na imagem abaixo:
 
 ![Print 10](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-172841.png)
+
+### Agora compile o projeto e veja como ficou :wink:
+
+![Print 1](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-172716.png)
