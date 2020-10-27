@@ -71,7 +71,7 @@ Seu diálogo já está pronto, você pode fazer sua lógica dentro dos ifs. Mas 
 
 ### Em cada If adicione um bloco DefinirDados Chaves valor e o bloco Definir Cor de Fundo.
 
-#### No primeiro if você colocará uma chave "a" e o valor "escuro". E vai definir como cor Preto.
+### No primeiro if você colocará uma chave "a" e o valor "escuro". E vai definir como cor Preto.
 
 ### No segundo If você colocará uma chave "a" e o valor "claro". e vai definir como cor Branco.
 
