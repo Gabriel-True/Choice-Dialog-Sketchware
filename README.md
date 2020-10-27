@@ -79,5 +79,5 @@ Agora marque os blocos.
 
 ### Faça como na imagem abaixo:
 
-![Print 9](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-172006.png)
+![Print 9](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-223337.png)
 
