@@ -85,4 +85,15 @@ Agora marque os blocos.
 
 ### Na onCreate colocaremos os seguintes blocos:
 
-1. Dois Se Então 
+1. Dois Se Então (If Then) 
+2. Dois operadores igual
+3. Dois blocos SharedPreferences ObterDados Chaves
+4. Dois blocos definir cor de fundo
+
+### Agora coloque operador igual dentro do bloco If. Pegue o bloco ObterDados Chave e coloque como chave "a" e marque o operador como "escuro". Agora coloque uma cor de fundo como Preto.
+
+### No segundo If faça a mesma coisa, só troque por "claro" e a cor Branco.
+
+### Faça como na imagem abaixo:
+
+![Print 10](https://github.com/Gabriel-True/Choice-Dialog-Sketchware/blob/main/Screenshot_20201026-172841.png)
