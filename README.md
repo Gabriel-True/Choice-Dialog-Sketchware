@@ -38,7 +38,7 @@ Choice dialog com temas | Sketchware
 
 Coloque Escuro para o primeiro bloco e Claro para o segundo bloco e marque as list string. Depois marque a variável para Position 0 como mostra na imagem.
 
-### Feito isso, agora vamos para a onClick do Button
+### :bulb: Feito isso, agora vamos para a onClick do Button
 
 ### Iremos colocar os seguintes blocos:
 
