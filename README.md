@@ -46,3 +46,11 @@ Coloque Escuro para o primeiro bloco e Claro para o segundo bloco e marque as li
 2. Coloque o bloco choice dialog (aquele que você baixou)
 3. Botão OK (no botão coloque salvar/ok/definir o que você preferir)
 4. Diálogo mostrar (servirá para mostrar o diálogo)
+
+### Agora dentro do bloco Botão OK colocaremos os seguintes blocos:
+
+1. Dois blocos Se Então (if then) um embaixo do outro)
+2. Dois blocos operadores igual ( = )
+
+### Agora coloque o operador dentro do bloco If Then. Feito isso, vá para a parte de variáveis e pegue bloco Position e adicione dentro do bloco operador. No primeiro If coloque Position = 0. e no segundo If coloque Position = 1. 
+
